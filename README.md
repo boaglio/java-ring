@@ -1,4 +1,6 @@
-# Java Ring - Rede de Youtubers Java
+# | Java Ring | Rede de Youtubers Java |
+
+![Java Ring](java-ring.png)
 
 ## Siga todo mundo! 
 
@@ -20,6 +22,7 @@
 |*Sergio Lopes* |[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/SergioLopesDevInitiative)](http://youtube.com/SergioLopesDevInitiative) [![Linkedin: sergio-lopes-20131a33](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-lopes-20131a33/)](https://www.linkedin.com/in/sergio-lopes-20131a33/) [![GitHub follow](https://img.shields.io/github/followers/sergiolopessp?style=social)](https://github.com/sergiolopessp)[![Twitter Follow](https://img.shields.io/twitter/follow/sergiolopessp?style=social)](https://twitter.com/sergiolopessp)|
 
 
+
 || Rede de Grupos de Usuários Java Youtubers |  
 |:-: | :-:	|
 | *Devs Java Girl BR* | [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/DevsJavaGirlBR)](http://youtube.com/DevsJavaGirlBR) [![Linkedin: devsjavagirlbr](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsjavagirlbr/)](https://www.linkedin.com/in/devsjavagirlbr/) [![GitHub follow](https://img.shields.io/github/followers/devs-javagirl?style=social)](https://github.com/devs-javagirl) |
@@ -28,6 +31,6 @@
 
 
 
-Esqueci alguém? Manda um PR! 
+Esqueci alguém? *Manda um PR!*
 
-Precimos reunir a comunidade de Youtube que cria conteúdo Java! 
+Precisamos reunir a comunidade de Youtubers que cria conteúdo _Java_ ! 
