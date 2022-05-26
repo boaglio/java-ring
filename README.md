@@ -511,6 +511,32 @@
          </b>
         </sub>
     </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/16329036?v=4" width="100px;" alt="Foto de O Igor Rudel"/><br>
+        <sub>
+          <b>Igor Rudel</b><br><br>
+          <b>
+            <a href="http://youtube.com/OIgorRudel">
+                <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
+            </a>
+         </b>
+          <b>
+            <a href="https://www.linkedin.com/in/oigorrudel/">
+                <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+            </a>
+         </b>
+          <b>
+            <a href="https://github.com/oigorrudel">
+                <img src="https://img.shields.io/github/followers/oigorrudel?style=social"/>
+            </a>
+         </b><br>
+         <b>
+            <a href="https://twitter.com/oigorrudel">
+                <img src="https://img.shields.io/twitter/follow/oigorrudel?style=social"/>
+            </a>
+         </b>
+        </sub>
+    </td>
 </tr>
 </table>
 
