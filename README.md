@@ -1,8 +1,9 @@
 # | Java Ring | Rede de Youtubers Java |
 
-![Java Ring](java-ring.png)
+<h1 align="center">
+  <img src="images/banner.png">
+</h1>
 
-## Siga todo mundo! 
 
 ![YouTube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)  ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=black) ![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=Twitter&logoColor=blue) ![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white)
 
