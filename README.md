@@ -114,7 +114,7 @@
             <a href="https://github.com/Kamilahsantos">
                 <img src="https://img.shields.io/github/followers/Kamilahsantos?style=social"/>
             </a>
-         </b><br>
+         </b>
          <b>
             <a href="https://twitter.com/kamilah_santos">
                 <img src="https://img.shields.io/twitter/follow/kamilah_santos?style=social"/>
@@ -145,7 +145,7 @@
             <a href="https://github.com/loiane">
                 <img src="https://img.shields.io/github/followers/loiane?style=social"/>
             </a>
-         </b><br>
+         </b>
          <b>
             <a href="https://twitter.com/loiane">
                 <img src="https://img.shields.io/twitter/follow/loiane?style=social"/>
@@ -157,7 +157,7 @@
        <td align="center">
         <img src="https://avatars.githubusercontent.com/u/6537623?v=4" width="100px;" alt="Foto do Maximillian Arruda"/><br>
         <sub>
-          <b>Maximillian Arruda </b><br><br>
+          <b>Maximillian Arruda</b><br><br>
           <b>
             <a href="http://youtube.com/MaximillianArruda">
                 <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
@@ -177,7 +177,7 @@
             <a href="https://github.com/dearrudam">
                 <img src="https://img.shields.io/github/followers/dearrudam?style=social"/>
             </a>
-         </b><br>
+         </b>
          <b>
             <a href="https://twitter.com/maxdearruda">
                 <img src="https://img.shields.io/twitter/follow/maxdearruda?style=social"/>
@@ -203,7 +203,7 @@
             <a href="https://github.com/MichelliBrito">
                 <img src="https://img.shields.io/github/followers/MichelliBrito?style=social"/>
             </a>
-         </b><br>
+         </b>
          <b>
             <a href="https://twitter.com/MichelliBrito4">
                 <img src="https://img.shields.io/twitter/follow/MichelliBrito4?style=social"/>
@@ -472,7 +472,7 @@
             <a href="https://github.com/meetupjavasaopaulo">
                 <img src="https://img.shields.io/github/followers/meetupjavasaopaulo?style=social"/>
             </a>
-         </b><br>
+         </b>
          <b>
             <a href="https://twitter.com/JavaMeetupSampa">
                 <img src="https://img.shields.io/twitter/follow/JavaMeetupSampa?style=social"/>
@@ -503,7 +503,7 @@
             <a href="https://github.com/SouJava">
                 <img src="https://img.shields.io/github/followers/SouJava?style=social"/>
             </a>
-         </b><br>
+         </b>
          <b>
             <a href="https://twitter.com/SouJava">
                 <img src="https://img.shields.io/twitter/follow/SouJava?style=social"/>
