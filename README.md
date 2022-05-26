@@ -1,4 +1,14 @@
-# | Java Ring | Rede de Youtubers Java |
+<h4 align="center">
+  <p>Java Ring</p>
+
+  <p>Precisamos reunir a comunidade que cria conteúdo <i>Java!</i> ☕</p>
+</h4>
+
+<p align="center">
+  <a href="#handshake-comunidade">Comunidade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thumbsup-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;
+</p>
 
 <h1 align="center">
   <img src="images/banner.png">
@@ -7,6 +17,7 @@
 
 ![YouTube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)  ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=black) ![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=Twitter&logoColor=blue) ![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white)
 
+## :handshake: Comunidade
 
 | | Rede de Youtubers Java | 
 |:-: |:--- |
@@ -26,8 +37,6 @@
 |*Thomás da Costa* |[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/thomasdacosta)](http://youtube.com/thomasdacosta) [![Linkedin: thomasdacosta](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdacosta/)](https://www.linkedin.com/in/thomasdacosta/) [![GitHub follow](https://img.shields.io/github/followers/thomasdacosta?style=social)](https://github.com/thomasdacosta) [![Twitter Follow](https://img.shields.io/twitter/follow/thomasdacosta?style=social)](https://twitter.com/thomasdacosta)|
 |*William Suane (DevDojo)* |[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/DevDojoBrasil)](https://www.youtube.com/c/DevDojoBrasil) [![Linkedin: sergio-lopes-20131a33](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-lopes-20131a33/)](https://www.linkedin.com/in/williamsuane/) [![GitHub follow](https://img.shields.io/github/followers/devdojobr?style=social)](https://github.com/devdojobr)|
 
-
-
 || Rede de Grupos de Usuários Java Youtubers |  
 |:-: | :---	|
 | *Devs Java Girl BR* | [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/DevsJavaGirlBR)](http://youtube.com/DevsJavaGirlBR) [![Linkedin: devsjavagirlbr](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsjavagirlbr/)](https://www.linkedin.com/in/devsjavagirlbr/) [![GitHub follow](https://img.shields.io/github/followers/devs-javagirl?style=social)](https://github.com/devs-javagirl) [![Twitter Follow](https://img.shields.io/twitter/follow/devsjavagirl?style=social)](https://twitter.com/devsjavagirl)|
@@ -35,6 +44,12 @@
 | *SouJava* | [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/SouJava)](http://youtube.com/SouJava) [![Linkedin: SouJava](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/SouJava/)](https://www.linkedin.com/company/SouJava/) [![GitHub follow](https://img.shields.io/github/followers/SouJava?style=social)](https://github.com/SouJava) [![Twitter Follow](https://img.shields.io/twitter/follow/SouJava?style=social)](https://twitter.com/SouJava) [![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/SouJavabr)](https://t.me/SouJavabr)|
 
 
-Esqueci alguém? *Manda um PR!*
+## :thumbsup: Como contribuir
 
-Precisamos reunir a comunidade de Youtubers que cria conteúdo _Java_ ! 
+-  Faça um fork;
+-  Comite suas mudanças: `git commit -m 'Adicionei +1 influencer =D'`;
+-  Faça um push para sua branch: `git push origin main`.
+
+## :memo: Licença
+Esse projeto está sobre a licença GPL 3.0. Para mais detalhes veja [LICENSE](https://github.com/boaglio/java-ring/blob/main/LICENSE).
+ 
