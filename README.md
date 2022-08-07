@@ -39,3 +39,5 @@
 Esqueci alguém? *Manda um PR!*
 
 Precisamos reunir a comunidade de Youtubers que cria conteúdo _Java_ ! 
+
+Obrigado ao @kinow pelo belíssimo logo! 
