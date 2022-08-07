@@ -1,6 +1,6 @@
 # | Java Ring | Rede de Youtubers Java |
 
-![Java Ring](java-ring.png)
+![Java Ring](java-ring.jpg)
 
 ## Siga todo mundo! 
 
