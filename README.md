@@ -1,13 +1,18 @@
+
 # | Java Ring | Rede de Youtubers Java |
 
 ![Java Ring](java-ring.png)
+
+## Repositório oficial 
+
+https://github.com/Java-Ring/java-ring-pt
 
 ## Siga todo mundo! 
 
 ![YouTube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)  ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=GitHub&logoColor=black) ![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=Twitter&logoColor=blue) ![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white)
 
 
-| | Rede de Youtubers Java | 
+| Pessoas | Rede de Youtubers Java | 
 |:-: |:--- |
 |*Alberto Souza - DevEficiente* | [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/deveficiente)](http://youtube.com/deveficiente) [![Linkedin: alberto_souza](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza-953b0b7/)](https://www.linkedin.com/in/alberto-souza-953b0b7/) [![GitHub follow](https://img.shields.io/github/followers/asouza?style=social)](https://github.com/asouza) [![Twitter Follow](https://img.shields.io/twitter/follow/alberto_souza?style=social)](https://twitter.com/alberto_souza)|
 |*Elder Moraes* |[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/eldermoraes)](http://youtube.com/eldermoraes) [![Linkedin: eldermoraes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eldermoraes/)](https://www.linkedin.com/in/eldermoraes/) [![GitHub follow](https://img.shields.io/github/followers/eldermoraes?style=social)](https://github.com/eldermoraes) [![Twitter Follow](https://img.shields.io/twitter/follow/elderjava?style=social)](https://twitter.com/elderjava)|
@@ -29,7 +34,7 @@
 |*William Suane (DevDojo)* |[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/DevDojoBrasil)](https://www.youtube.com/c/DevDojoBrasil) [![Linkedin: sergio-lopes-20131a33](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-lopes-20131a33/)](https://www.linkedin.com/in/williamsuane/) [![GitHub follow](https://img.shields.io/github/followers/devdojobr?style=social)](https://github.com/devdojobr)|
 
 
-|| Rede de Grupos de Usuários Java Youtubers |  
+| JUGs | Rede de Grupos de Usuários Java Youtubers |  
 |:-: | :---	|
 | *Devs Java Girl BR* | [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/DevsJavaGirlBR)](http://youtube.com/DevsJavaGirlBR) [![Linkedin: devsjavagirlbr](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsjavagirlbr/)](https://www.linkedin.com/in/devsjavagirlbr/) [![GitHub follow](https://img.shields.io/github/followers/devs-javagirl?style=social)](https://github.com/devs-javagirl) [![Twitter Follow](https://img.shields.io/twitter/follow/devsjavagirl?style=social)](https://twitter.com/devsjavagirl)|
 | *Java Meetup SP* | [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/MeetupJavaSãoPaulo)](http://youtube.com/MeetupJavaSãoPaulo) [![Linkedin: JavaMeetupSP](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/java-meetup-sp/)](https://www.linkedin.com/company/java-meetup-sp/) [![GitHub follow](https://img.shields.io/github/followers/meetupjavasaopaulo?style=social)](https://github.com/meetupjavasaopaulo) [![Twitter Follow](https://img.shields.io/twitter/follow/JavaMeetupSampa?style=social)](https://twitter.com/JavaMeetupSampa) [![Telegram](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JavaMeetupSPnews)](https://t.me/JavaMeetupSPnews)|
@@ -40,4 +45,4 @@ Esqueci alguém? *Manda um PR!*
 
 Precisamos reunir a comunidade de Youtubers que cria conteúdo _Java_ ! 
 
-Obrigado ao @kinow pelo belíssimo logo! 
+Obrigado ao *@kinow* [![GitHub follow](https://img.shields.io/github/followers/kinow?style=social)](https://github.com/kinow) pelo belíssimo logo! 
