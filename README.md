@@ -3,9 +3,13 @@
 
 ![Java Ring](java-ring.png)
 
-## Repositório oficial 
+## Links oficiais 
 
-https://github.com/Java-Ring/java-ring-pt
+| [![GitHub follow](https://img.shields.io/github/followers/Java-Ring?style=social)](https://github.com/Java-Ring) | [https://github.com/Java-Ring/java-ring-pt](https://github.com/Java-Ring/java-ring-pt) |
+|:-: |:--- |
+| [![Twitter Follow](https://img.shields.io/twitter/follow/java_ring?style=social)](https://twitter.com/java_ring) | [https://twitter.com/java_ring](https://twitter.com/java_ring) |
+| [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC2Snsr0kHHhSurtdOaOrKKw)](https://www.youtube.com/channel/UC2Snsr0kHHhSurtdOaOrKKw?sub_confirmation=1) | [Canal YouTube Java Ring](https://www.youtube.com/channel/UC2Snsr0kHHhSurtdOaOrKKw) |
+| [![Link Tree](https://img.shields.io/badge/link-tree-green)](https://linktr.ee/javaring) | [https://linktr.ee/javaring](https://linktr.ee/javaring) |
 
 ## Siga todo mundo! 
 
